@@ -5,8 +5,8 @@ Simple web app demonstrated in workshop
 
 <p>Files: </p>
 
-src/<package>/java/MainActivity.java <br>
-src/<package>/res/layout/activity_main.xml <br>
+src/package-name/java/MainActivity.java <br>
+src/package-name/res/layout/activity_main.xml <br>
 src/AndroidManifest.xml<br>
 
 <h5>Links</h5>
