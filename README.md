@@ -5,11 +5,11 @@ Simple web app demonstrated in workshop
 
 <p>Files: </p>
 
-src/<package>/java/MainActivity.java
-src/<package>/res/layout/activity_main.xml
-src/AndroidManifest.xml
+src/<package>/java/MainActivity.java <br>
+src/<package>/res/layout/activity_main.xml <br>
+src/AndroidManifest.xml<br>
 
 <h5>Links</h5>
 
-<a href="https://www.tutorialspoint.com/how-to-display-progress-bar-while-loading-a-url-to-webview-in-android">Click here</a>
+<a href="https://www.tutorialspoint.com/how-to-display-progress-bar-while-loading-a-url-to-webview-in-android">Click here</a><br>
 <a href="https://developer.android.com/guide/webapps/webview">Google guide</a>
